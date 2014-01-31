@@ -1,0 +1,28 @@
+{
+  "name": "fruitmachine-boundarize",
+  "version": "1.0.0",
+  "description": "A fruitmachine helpers for creating component layout boundaries",
+  "main": "lib/helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ftlabs/fruitmachine-boundarize.git"
+  },
+  "keywords": [
+    "fastdom",
+    "performance",
+    "layout",
+    "fruitmachine"
+  ],
+  "author": "Wilson Page <wilsonpage@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ftlabs/fruitmachine-boundarize/issues"
+  },
+  "dependencies": {
+    "fruitmachine-fastdom": "~1.0.2"
+  }
+}
+
