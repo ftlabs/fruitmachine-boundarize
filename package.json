@@ -22,7 +22,7 @@
     "url": "https://github.com/ftlabs/fruitmachine-boundarize/issues"
   },
   "dependencies": {
-    "fruitmachine-fastdom": "~1.0.2"
+    "fruitmachine-fastdom": "^1.1.0"
   }
 }
 
