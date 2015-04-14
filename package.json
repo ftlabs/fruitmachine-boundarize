@@ -1,6 +1,6 @@
 {
   "name": "fruitmachine-boundarize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fruitmachine helpers for creating component layout boundaries",
   "main": "lib/helper.js",
   "scripts": {
